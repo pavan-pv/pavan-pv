@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-pv
 - 👀 I’m interested in solving problems using technology. 
-- 🌱 I’m currently learning Rust. Also, deepening my JS knowledge through [YDKJS](https://github.com/getify/You-Dont-Know-JS).
+- 🌱 I’m currently learning Rust, Golang. Also, deepening my JS knowledge through [YDKJS](https://github.com/getify/You-Dont-Know-JS).
 - 💞️ I’m looking to collaborate on any open source JS projects, including npm packages.
 - 📫 How to reach me ... email me at pavanpudipeddi23@gmail.com 
 
