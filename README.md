@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems using technology. 
 - 🌱 I’m currently learning Rust, Golang. Also, deepening my JS knowledge through [YDKJS](https://github.com/getify/You-Dont-Know-JS).
 - 💞️ I’m looking to collaborate on any open source JS projects, including npm packages.
-- 📫 How to reach me ... email me at pavanpudipeddi23@gmail.com 
+<!--- 📫 How to reach me ... Twitter -  
 
 <!---
 pavan-pv/pavan-pv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
